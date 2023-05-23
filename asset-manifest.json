@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/nhac/static/css/main.96d84106.css",
+    "main.js": "/nhac/static/js/main.3f9816aa.js",
+    "static/media/Subtact - Want You (feat. Sara Skinner) [NCS Release].mp3": "/nhac/static/media/Subtact - Want You (feat. Sara Skinner) [NCS Release].cba03d8aff6d545ea2cf.mp3",
+    "static/media/ROY KNOX -  Over My Head (Feat. Mike Robert) [NCS Release].mp3": "/nhac/static/media/ROY KNOX -  Over My Head (Feat. Mike Robert) [NCS Release].3d4c8e65664bbf79a531.mp3",
+    "static/media/Midranger - Apocalypse [NCS Release].mp3": "/nhac/static/media/Midranger - Apocalypse [NCS Release].9cc2c2312b2d5b0260b9.mp3",
+    "static/media/N3WPORT - Alive (feat. Neoni) [NCS Release].mp3": "/nhac/static/media/N3WPORT - Alive (feat. Neoni) [NCS Release].4dfef2217e284538b307.mp3",
+    "static/media/Clarx - Shakedown [NCS Release].mp3": "/nhac/static/media/Clarx - Shakedown [NCS Release].c3f9a0579384f9e8d204.mp3",
+    "static/media/file_example_MP3_5MG.mp3": "/nhac/static/media/file_example_MP3_5MG.f23f9d956d4059780497.mp3",
+    "static/media/impact2.mp3": "/nhac/static/media/impact2.f23f9d956d4059780497.mp3",
+    "static/media/Heuse & Tom Wilson - Ignite [NCS Release].mp3": "/nhac/static/media/Heuse & Tom Wilson - Ignite [NCS Release].b81dd9b02cf5177592d9.mp3",
+    "static/media/mixkit-games-worldbeat-466.mp3": "/nhac/static/media/mixkit-games-worldbeat-466.fbb1a18701725b156f0c.mp3",
+    "static/media/cuoithoi.mp3": "/nhac/static/media/cuoithoi.c9a8f6edd005b905e9a5.mp3",
+    "static/media/dat.jpg": "/nhac/static/media/dat.c0332e98174b8bd284bc.jpg",
+    "static/media/file_example_MP3_1MG.mp3": "/nhac/static/media/file_example_MP3_1MG.006bd74bbc050ebe38e0.mp3",
+    "static/media/impact.mp3": "/nhac/static/media/impact.006bd74bbc050ebe38e0.mp3",
+    "static/media/avatar.jpg": "/nhac/static/media/avatar.a3b0c5bb6b39330acedb.jpg",
+    "static/media/notAvailable.jpg": "/nhac/static/media/notAvailable.776cd01bb8e24cfad966.jpg",
+    "static/media/ignite-1600419626-nHn4WXY79q.jpg": "/nhac/static/media/ignite-1600419626-nHn4WXY79q.f6f971f3d81ea6e02bea.jpg",
+    "static/media/avatar2.jpg": "/nhac/static/media/avatar2.540d8ecf0c40a6ca1269.jpg",
+    "static/media/over-my-head-1602154826-mOiKzOJDe6.jpg": "/nhac/static/media/over-my-head-1602154826-mOiKzOJDe6.189b0d2cf69023accdca.jpg",
+    "static/media/shakedown.jpg": "/nhac/static/media/shakedown.40dd7ec0dfb5bb95a967.jpg",
+    "static/media/apocalypse-1600776027-tsCmgK4gEU.jpg": "/nhac/static/media/apocalypse-1600776027-tsCmgK4gEU.4a749e39698606e47990.jpg",
+    "static/media/alive.jpg": "/nhac/static/media/alive.03f3fb8f2aa9672748c7.jpg",
+    "static/media/cuoithoi.jpg": "/nhac/static/media/cuoithoi.c285740b81acb335e1de.jpg",
+    "static/media/want-you-feat-sara-skinner-1586956276-s4lOrfrHQj.jpg": "/nhac/static/media/want-you-feat-sara-skinner-1586956276-s4lOrfrHQj.c73eef0d6333524a4cfa.jpg",
+    "static/media/headphones.svg": "/nhac/static/media/headphones.9671504ae595e95a46cce277c548b1db.svg",
+    "static/media/headphonesLogo.svg": "/nhac/static/media/headphonesLogo.8913a64d4a709fcfe8b6eac53e899e5c.svg",
+    "static/media/searchMusicDisc.svg": "/nhac/static/media/searchMusicDisc.98f1e3fc17a9e01b75002419e2a38287.svg",
+    "static/media/searchMusic.svg": "/nhac/static/media/searchMusic.3199a01e3bbebf6f5d971239b137f8db.svg",
+    "index.html": "/nhac/index.html",
+    "static/media/searchMusicMp3.svg": "/nhac/static/media/searchMusicMp3.95bd70b5bb95cfa941bc225312eb0d68.svg",
+    "static/media/left.svg": "/nhac/static/media/left.33c62bf48da401e69db5c4c8fdd78fd7.svg",
+    "static/media/right.svg": "/nhac/static/media/right.e9bdd8d61601df3a302a.svg",
+    "main.96d84106.css.map": "/nhac/static/css/main.96d84106.css.map",
+    "main.3f9816aa.js.map": "/nhac/static/js/main.3f9816aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96d84106.css",
+    "static/js/main.3f9816aa.js"
+  ]
+}
