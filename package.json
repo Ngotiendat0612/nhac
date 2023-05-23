@@ -1,5 +1,5 @@
 {
-  "name": "Quỳnh",
+  "name": "quynh",
   "homepage": "https://Ngotiendat0612.github.io/nhac/",
   "version": "0.1.0",
   "private": true,
@@ -23,7 +23,7 @@
     "sass": "1.49.11"
   },
   "scripts": {
-    "predeploy": "npm run build",
+    "predeploy": "yarn run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
